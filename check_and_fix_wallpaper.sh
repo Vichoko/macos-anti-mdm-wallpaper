@@ -78,7 +78,7 @@
 
 set -euo pipefail
 
-SCRIPT_DIR="/Users/vicente.oyanedel/git/scripts"
+SCRIPT_DIR="/Users/vicente.oyanedel/git/scripts/macos-anti-mdm-wallpaper"
 TARGET="/Library/ManageEngine/UEMS_Agent/configuration/user/wallpaper/Copy of WallpaperLightModeESPFV.png"
 
 # Capturamos la salida del script actual
